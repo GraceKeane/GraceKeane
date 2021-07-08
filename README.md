@@ -1,4 +1,4 @@
-### Hi there, I'm Grace 👋
+### Hi there, I'm Grace <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🎓 Recently completed my BSc (Honours) in Computing in Software Development degree
 - 💻 Currently a Software Engineer Intern at Globalization Partners
