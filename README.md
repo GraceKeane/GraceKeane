@@ -2,7 +2,7 @@
 
 - 🎓 Recently completed my BSc (Honours) in Computing in Software Development degree <i>(September 2017 - May 2021)</i>
 - ✔️ Software Engineer Intern at Globalization Partners <i>(June 2021 - August 2021)</i>
-- 💻 Currently a Graduate Software Engineer at Globalization Partners <i>(August 2021 - present)</i>
+- 💻 Currently a Graduate Software Engineer at Globalization Partners <i>(August 2021 - Present)</i>
 
 ### Languages & Tools:  
 
