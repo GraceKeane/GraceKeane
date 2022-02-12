@@ -3,8 +3,8 @@
 <b>My personal GitHub profile which contains numerous college applications and games, assignments, group development projects, presentations and personal projects I have  previously worked on!.</b>
 
 - 🎓 Recently completed my BSc (Honours) in Computing in Software Development degree <i>(September 2017 - May 2021)</i>
-- ✔️ Software Engineer Intern at Globalization Partners <i>(June 2021 - August 2021)</i>
-- 💻 Currently a Graduate Software Engineer at Globalization Partners <i>(August 2021 - Present)</i>
+- ✔️ Software Engineer Intern at Globalization Partners <i>(June 2021 - August 2021) -  Full stack </i>
+- 💻 Currently a Graduate Software Engineer at Globalization Partners <i>(August 2021 - Present) - Full stack </i>
 
 ### Languages & Tools:  
 
