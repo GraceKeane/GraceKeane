@@ -6,18 +6,6 @@
 - ✔️ Software Engineer Intern at Globalization Partners <i>(June 2021 - August 2021) -  Full stack </i>
 - 💻 Currently a Graduate Software Engineer at Globalization Partners <i>(August 2021 - Present) - Full stack </i>
 
-### Languages:  
-- JavaScript
-- TypeScript
-- Java
-- Ruby
-- Python
-- MySQL
-- MongoDB
-
-### Testing Experience:
-Jest, Cucumber, RSpec, Selenium, JUnit
-
 [<img align="left" alt="GraceKeane | LinkedIn" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-256.png" />][LinkedIn]
 
 [LinkedIn]: https://www.linkedin.com/in/grace-keane-softwaredevelopment/
