@@ -1,4 +1,4 @@
-### Hi there, I'm Grace <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0.1px">
+### Hi there, I'm Grace
 
 <b>My personal GitHub profile which contains numerous college applications and games, assignments, group development projects, presentations and personal projects I have  previously worked on!.</b>
 
