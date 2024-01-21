@@ -10,5 +10,5 @@
 
 [<img align="left" alt="GraceKeane | LinkedIn" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-256.png" />][LinkedIn]
 
-[LinkedIn]: https://www.linkedin.com/in/grace-keane-softwaredevelopment/
+[LinkedIn]: www.linkedin.com/in/grace-keane-software-engineer
 
