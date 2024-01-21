@@ -8,7 +8,3 @@
 - ✔️ Associate Software Engineer at Globalization Partners (G-P) <i>(March 2022 - September 2023) </i>
 - Software Engineer 1 at Globalization Partners (G-P) - present
 
-[<img align="left" alt="GraceKeane | LinkedIn" width="100px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-256.png" />][LinkedIn]
-
-[LinkedIn]: www.linkedin.com/in/grace-keane-software-engineer
-
